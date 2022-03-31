@@ -2,5 +2,5 @@
 
 
 ## feature list
-[ ] Automatic reading MySQL structure
-[ ] 
+[] Automatic reading MySQL structure
+[] 
